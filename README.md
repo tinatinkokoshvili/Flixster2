@@ -29,7 +29,7 @@ Added Landscape Mode Functionality to Movie Details Activity
 
 Here's a walkthrough of implemented user stories:
 
-![gif](Flixster2/app/VideoWalkthrough.gif)
+![gif](app/VideoWalkthrough.gif)
 
 GIF created with [Kap](https://getkap.co/).
 
